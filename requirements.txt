@@ -3,5 +3,3 @@ openai
 langchain
 pandas[all]
 typing
-pytables
-tabulate
