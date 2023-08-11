@@ -1,6 +1,7 @@
 streamlit
 openai
 langchain
-pandas
+pandas[all]
 typing
+pytables
 tabulate
